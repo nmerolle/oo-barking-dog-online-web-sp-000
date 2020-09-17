@@ -12,4 +12,5 @@ def name
 end
 
 def bark
-  
+  puts "Woof!"
+end
